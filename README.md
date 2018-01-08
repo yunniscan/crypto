@@ -1,2 +1,2 @@
 # crypto
-Code about crypto
+Python scripts about crypto
