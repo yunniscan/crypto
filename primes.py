@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import primefac
-import sys
+import sys 
 
 #Intro
 print('\n\n\033[1;34mPrimes Factorization \033[00m- version 1.0 \nby \033[1;32m@yunniscan\033[00m')
